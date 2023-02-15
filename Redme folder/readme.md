@@ -1,0 +1,3 @@
+GPT-3: Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model released in 2020 that uses deep learning to produce human-like text. Given an initial text as prompt, it will produce text that continues the prompt.    GPT-3 model was trained by OpenAI company (Elon Mask is cofounder), and currently, you can only use it as paid REST API (which became available to anyone on Nov 18, 2021).
+
+How it works: GPT-3 is a language prediction model. This means that it has a neural network machine learning model that can take input text and transform it into what it predicts the most useful result will be.
